@@ -2,7 +2,7 @@
 
 At the moment I'm Staff Frontend Software Engineer at https://team.emma-sleep.com
 
-Open-source creator at nights.
+Open-source creator at nights
 
 📫 How to reach me:
 - https://twitter.com/jeanpierrecarv
