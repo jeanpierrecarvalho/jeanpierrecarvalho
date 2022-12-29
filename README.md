@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-At the moment i'm Staff Frontend Software Engineer at https://team.emma-sleep.com
+At the moment I'm Staff Frontend Software Engineer at https://team.emma-sleep.com
 
 Open-source creator at nights.
 
